@@ -1,0 +1,23 @@
+[33mcommit 3c9ba1af3306c09724a173171b82cf7863544ecc[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Tom Verveckken <tomv@ecac.local>
+Date:   Thu Sep 14 11:58:36 2023 +0200
+
+    updated test.txt
+
+[33mcommit 34040d7f0c68c90737368e2cd5563cc56a506bd3[m[33m ([m[1;32mfeature[m[33m)[m
+Author: Tom Verveckken <tomv@ecac.local>
+Date:   Thu Sep 14 11:55:44 2023 +0200
+
+    added new feature
+
+[33mcommit 562e03a3b2be4b1310621bbbce6a667049059332[m
+Author: Swift-ninjA <tverveckken@gmail.com>
+Date:   Mon Sep 11 16:50:39 2023 +0200
+
+    changed test.txt and added seconf commit.txt
+
+[33mcommit a5c77d625a6d95e5c682e0f5ffc3dcbffc9442be[m
+Author: Tom Verveckken <tomv@ecac.local>
+Date:   Mon Sep 11 16:41:21 2023 +0200
+
+    added test.txt file
